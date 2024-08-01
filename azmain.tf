@@ -4,6 +4,8 @@ provider "azurerm" {
   client_id  = "1a046c02-8c39-4f1d-b30b-93f41a9c6b15"
   client_secret = "66q8Q~jSzkeybn43VuFkxkGz6wpfMHEGPxZaKcsE"
   subscription_id = "c2bd123a-183f-43d5-bf41-c725494e595a"
+resource_provider_registrations = "none"
+
   }
 resource "azurerm_resource_group" "rg" {
 
