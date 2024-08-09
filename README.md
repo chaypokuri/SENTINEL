@@ -1,3 +1,1 @@
-# SENTINEL
-DEMO
-"# sentinel-policy" 
+"# Sentinel-policies" 
